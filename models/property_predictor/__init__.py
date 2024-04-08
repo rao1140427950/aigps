@@ -1,0 +1,1 @@
+from models.property_predictor.config import T_PREDICTOR_4LAYER, batch_predict_property

@@ -1,0 +1,1 @@
+from models.power_encoder.config import batch_encode_powers
