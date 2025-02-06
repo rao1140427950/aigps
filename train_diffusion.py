@@ -1,6 +1,6 @@
 from models.common.dataset import config
 if __name__ == '__main__':
-    config('0, 1, 2, 4, 5, 6, 8, 9')
+    config('0, 1, 2, 3, 4, 5, 6, 7')
 
 import tensorflow as tf
 from models.common.dataset import PatternsDataset

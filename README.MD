@@ -1,4 +1,4 @@
-# Codes for "Map Optical Properties to Sub-wavelength Structures Directly via a Diffusion Model"
+# Codes for "Artificial Intelligence-Generated Photonics: Map Optical Properties to Subwavelength Structures Directly via a Diffusion Model"
 
 ## Requirements:
 ```requirements.txt
