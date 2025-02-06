@@ -17,6 +17,7 @@ from models.property_predictor import batch_predict_property
 from diffusion.ddim_sampler import DiffusionWrapper
 from matplotlib.colors import LinearSegmentedColormap
 
+
 cmap = LinearSegmentedColormap.from_list('grayblue', [(0.8588, 0.8588, 0.8588), (0.1804, 0.4588, 0.7137)])
 
 
