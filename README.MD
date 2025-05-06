@@ -67,4 +67,5 @@ python test_diffusion.py
 ```
 Running results of one test example will be shown as bellow:
 ![image](/srcs/test_diffusion.png)
+
 The running results of _test_diffusion.py_ can also be found in _test_diffusion.ipynb_
